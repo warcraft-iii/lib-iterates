@@ -5,7 +5,7 @@
 
 local Iterate = {}
 
-local Group = require('lib.oop.group')
+local Group = require('lib.stdlib.oop.group')
 
 ---enumUnitsOfPlayer
 ---@param player Player
